@@ -1,0 +1,20 @@
+====================================================================================
+
+			DEVELOPER BY SEKOMIRSON | MADE IN AZERBAIJAN
+
+====================================================================================
+
+
+Announcement - 23/06/2023
++ File Manager
++ Dark Mode
++ Added menubar
+
+Fixed:
+Bugs, Errors
+
+
+thanks for using
+
+Follow me on github:
+https://github.com/SekoMirson/
